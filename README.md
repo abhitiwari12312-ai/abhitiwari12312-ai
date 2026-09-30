@@ -47,13 +47,12 @@ A student-focused marketplace for buying and selling useful items within the stu
 
 [View Repository](https://github.com/abhitiwari12312-ai/My-Project-Student-Marketpalce)
 
-### ✅ TaskFlow – To-Do List
+### ✅ TaskMate – To-Do List
 
 A simple task management web application with task filtering, completion tracking and local storage.
 
 **Tech:** HTML • CSS • JavaScript
 
-*Repository coming soon.*
 
 ## Certifications
 
